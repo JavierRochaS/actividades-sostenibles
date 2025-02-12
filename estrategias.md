@@ -10,6 +10,3 @@ La eficiencia energética también se puede mejorar mediante la optimización de
 
 #### **3. Reciclaje y Reutilización de Equipos Electrónicos**  
 El rápido avance tecnológico genera una gran cantidad de residuos electrónicos. Para abordar este problema, es fundamental fomentar el reciclaje y la reutilización de equipos. Muchas empresas están implementando programas de reacondicionamiento de hardware, prolongando la vida útil de los dispositivos y reduciendo la cantidad de desechos tecnológicos.  
-
-### **Conclusión**  
-Las estrategias de sostenibilidad en TI buscan minimizar el impacto ambiental del sector a través del uso de energías renovables, la optimización del hardware y la correcta gestión de residuos electrónicos. Adoptar estas prácticas no solo contribuye al cuidado del medio ambiente, sino que también mejora la eficiencia operativa y reduce costos a largo plazo.
