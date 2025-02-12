@@ -17,5 +17,4 @@ Más allá de las grandes empresas, los profesionales de TI también pueden cont
 - **Extensión de la vida útil de equipos electrónicos** mediante mantenimiento adecuado y actualización de componentes en lugar de reemplazo completo.  
 - **Reciclaje y disposición responsable** de equipos electrónicos para evitar la contaminación.  
 
-### **Conclusión**  
-Las grandes empresas tecnológicas han demostrado que la sostenibilidad en TI es posible mediante la adopción de energías renovables y el desarrollo de tecnologías eficientes. Además, los profesionales del sector pueden contribuir implementando buenas prácticas en su trabajo diario, reduciendo así el impacto ambiental de la industria.
+
