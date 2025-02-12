@@ -1,4 +1,5 @@
 ### **Impacto Ambiental del Sector TI**  
+![sostenibilidad](img/sostenibilidad.jpg)
 
 El concepto de **TI sostenible** busca reducir el impacto ambiental de la tecnología mediante prácticas que optimicen el uso de energía, reduzcan emisiones y minimicen residuos electrónicos. Según IBM, la industria de las tecnologías de la información y comunicación (TIC) es responsable de una parte significativa de las emisiones globales de carbono, lo que hace urgente la adopción de estrategias más ecológicas.  
 
