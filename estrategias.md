@@ -1,4 +1,5 @@
 ### **Estrategias de Sostenibilidad en TI**  
+![estrategia](img/estrategia.jpg)
 
 El sector de las tecnologías de la información (TI) tiene un impacto ambiental significativo, por lo que es fundamental implementar estrategias de sostenibilidad para reducir su huella ecológica. A continuación, se presentan algunas de las principales medidas que pueden adoptarse en este ámbito.  
 
