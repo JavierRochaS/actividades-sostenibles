@@ -11,5 +11,3 @@ El avance tecnológico y la alta demanda de productos electrónicos generan gran
 #### **3. Emisiones de CO₂ y Contaminación**  
 El sector TI contribuye significativamente a las emisiones de gases de efecto invernadero. IBM sugiere el uso de energías renovables, como la solar y la eólica, para alimentar operaciones de TI, reduciendo así su huella de carbono.  
 
-### **Conclusión**  
-La adopción de prácticas de TI sostenibles no solo disminuye el impacto ambiental del sector, sino que también mejora la eficiencia operativa de las empresas. IBM enfatiza la necesidad de estrategias como el uso de energías limpias, la optimización del consumo energético y el reciclaje adecuado de dispositivos para avanzar hacia una tecnología más ecológica y responsable.
